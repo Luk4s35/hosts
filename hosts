@@ -20,7 +20,7 @@
 # on twitter (@0xUID) or via blog (blogpirate.net).                                                           #
 #                                                                                                             #
 # Block Spotify Ads!                                                                                          #
-# More info about this hosts file at i dont think link  still works                                           #
+# More info about this hosts file at                                                                          #
 # https://blogpirate.net/2017/08/08/how-to-block-those-nasty-ads-in-spotify-app-in-windows-linux-and-osx/     #
 #                                                                                                             #
 # Keep in mind that blocking servers is LEGAL. It's your home, your device, your Internet and your conviction.#
@@ -531,7 +531,7 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.doubleclick.net
+#0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad.es.doubleclick.net
@@ -1249,6 +1249,7 @@
 0.0.0.0 cs716.wpc.edgecastcdn.net
 0.0.0.0 cs77.wac.edgecastcdn.net
 0.0.0.0 cs78.wac.edgecastcdn.net
+0.0.0.0 cs837.wac.edgecastcdn.net
 0.0.0.0 cs84.wac.edgecastcdn.net
 0.0.0.0 cs851.wac.edgecastcdn.net
 0.0.0.0 cs876.wac.edgecastcdn.net
@@ -3845,6 +3846,7 @@
 0.0.0.0 www.comscore.com
 0.0.0.0 www.cp.tune.com
 0.0.0.0 www.dev.spotify.pinterest.adtz.com
+#0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.intercom.io
 0.0.0.0 www.mixpanel.com
